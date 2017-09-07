@@ -1,4 +1,4 @@
-# faceMorphing
+# faceMorphingAnimate
 #### Matlab scripts for visualizing images from FaceMorphTool in multi-dimensional *"face-space"*
 
 ### Morphing animated faces 
